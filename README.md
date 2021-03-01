@@ -1,1 +1,1 @@
-https://cherepanovmaxim.io/rsschool-cv/cv
+https://cherepanovmaxim.github.io/rsschool-cv/cv
